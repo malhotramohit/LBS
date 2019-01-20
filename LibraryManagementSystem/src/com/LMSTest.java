@@ -27,7 +27,6 @@ public class LMSTest {
 		boolean fl;
 		
 		Book b1=new Book(1211,"html","available");
-		Book b2=new Book(1212, "java","available");
 		Book b3=new Book(1213, "c#","available");
 		Book b4=new Book(1214, "js","available");
 		Book b5=new Book(1215, "android","available");
