@@ -1,11 +1,11 @@
 /**
- * 
+ *
  */
 package com;
 
 /**
  * @author 967524
- *
+ * mohit
  */
 public class Book implements Comparable<Book>{
 	private double bookId;
@@ -98,5 +98,5 @@ public class Book implements Comparable<Book>{
 		return true;
 	}
 
-	
+
 }
