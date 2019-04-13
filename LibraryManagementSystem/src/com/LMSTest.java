@@ -25,6 +25,7 @@ public class LMSTest {
 		// ArrayList<Book> booklist3=new ArrayList<Book>(5);
 		ArrayList<Double> dblm = new ArrayList<Double>();
 		boolean fl;
+<<<<<<< HEAD
 
 		Book b1 = new Book(1211, "html", "available");
 		Book b3 = new Book(1213, "c#", "available");
@@ -34,6 +35,17 @@ public class LMSTest {
 		Book b7 = new Book(1217, "and", "available");
 		Book b8 = new Book(1218, "dro", "available");
 
+=======
+		
+		Book b1=new Book(1211,"html","available");
+		Book b3=new Book(1213, "c#","available");
+		Book b4=new Book(1214, "js","available");
+		Book b5=new Book(1215, "android","available");
+		Book b6=new Book(1216, "roid","available");
+		Book b7=new Book(1217, "and","available");
+		Book b8=new Book(1218, "dro","available");
+		
+>>>>>>> 227e129c289609a9417f680b5d7b8b2c20d37cc7
 		booklist1.add(b1);
 		booklist1.add(b8);
 		booklist1.add(b3);
